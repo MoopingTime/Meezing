@@ -1,6 +1,6 @@
 # Meezing
 
-Meezing là một công cụ cách mạng dành cho người dùng quán internet, giúp tối ưu hóa trải nghiệm chơi game và duyệt web bằng cách bỏ qua thời gian chờ trên các máy tính chạy **CyberStation** tại Việt Nam. Với Meezing, bạn có thể bắt đầu phiên sử dụng ngay lập tức mà không bị trễ thời gian, giúp tận dụng từng giây phút quý giá.
+Meezing là một công cụ cách mạng dành cho người dùng quán internet, giúp tối ưu hóa trải nghiệm chơi game và duyệt web bằng cách bỏ qua thời gian chờ trên các máy tính chạy **CyberStation**, **GCafe** tại Việt Nam. Với Meezing, bạn có thể bắt đầu phiên sử dụng ngay lập tức mà không bị trễ thời gian, giúp tận dụng từng giây phút quý giá.
 
 ## Tính năng
 - **Truy cập tức thì**: Sử dụng bất kỳ máy tính nào mà không cần chờ đợi bộ đếm thời gian của CyberStation.
@@ -19,12 +19,12 @@ Meezing tương tác với hệ thống CyberStation để bỏ qua cơ chế h�
 3. Làm theo hướng dẫn trên màn hình để hoàn tất cài đặt.
 
 ## Hướng dẫn sử dụng
-1. Khởi chạy Meezing sau khi đăng nhập vào hệ thống CyberStation.
+1. Khởi chạy Meezing sau khi đăng nhập vào hệ thống CyberStation, GCafe.
 2. Làm theo hướng dẫn trên giao diện để bỏ qua bộ đếm thời gian.
 3. Thưởng thức phiên chơi mà không bị gián đoạn.
 
 ## Yêu cầu hệ thống
-- Máy tính chạy Windows với CyberStation
+- Máy tính chạy Windows với CyberStation, GCafe.
 - Có thể cần quyền quản trị để sử dụng đầy đủ chức năng
 
 ## Tuyên bố từ chối trách nhiệm
